@@ -1,2 +1,2 @@
 # springBoot-Jokes-App
-A Chuck Norris jokes app created using Spring Boot
+A Spring Boot web application which displays a random Chuck Norris joke on the index.
